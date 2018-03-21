@@ -1,0 +1,13 @@
+body {
+
+    font-family: 'Bellefair', serif;
+    padding: 5em;
+    font-size: 2em;
+}
+
+
+img {
+    /*vw is view width*/
+    /*you can also use percentages or pixels*/
+    width: 30vw;
+}
